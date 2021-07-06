@@ -5,4 +5,4 @@ describe String do
             expect(subject).to eq("Não sou vazio")
         end
     end
-end.
+end
